@@ -1,15 +1,16 @@
 {
   "name": "angularjs-dragula",
-  "version": "1.2.8",
+  "version": "1.0.0",
   "description": "Drag and drop so simple it hurts",
   "main": [
     "dist/angularjs-dragula.js",
     "dist/dragula.css"
   ],
   "ignore": [],
-  "homepage": "https://github.com/bevacqua/angularjs-dragula",
+  "homepage": "https://github.com/ooboobay/dux-angularjs-dragula",
   "authors": [
-    "Nicolas Bevacqua <nicolasbevacqua@gmail.com>"
+    "Nicolas Bevacqua <nicolasbevacqua@gmail.com>",
+    "Danny Lei (forked from Nicolas Bevacqua's original angularjs-dragula) <danny.lei@gmail.com"
   ],
   "license": "MIT"
 }
