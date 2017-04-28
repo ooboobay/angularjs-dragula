@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-dragula",
+  "name": "dux-angularjs-dragula",
   "version": "1.2.9",
   "description": "Drag and drop so simple it hurts",
   "main": [
@@ -7,7 +7,7 @@
     "dist/dragula.css"
   ],
   "ignore": [],
-  "homepage": "https://github.com/ooboobay/dux-angularjs-dragula",
+  "homepage": "https://github.com/ooboobay/angularjs-dragula",
   "authors": [
     "Nicolas Bevacqua <nicolasbevacqua@gmail.com>",
     "Danny Lei (forked from Nicolas Bevacqua's original angularjs-dragula) <danny.lei@gmail.com"
