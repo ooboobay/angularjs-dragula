@@ -58,6 +58,7 @@ function register (angular) {
           var modelIndex = oldValue ? drake.models.indexOf(oldValue) : -1;
           if (modelIndex >= 0) {
             drake.models.splice(modelIndex, 1, newValue);
+            drake.containers.splice(modelIndex, 1, drake.containers.pop());
           } else {
             drake.models.push(newValue);
           }
