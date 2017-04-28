@@ -1,8 +1,8 @@
 [![logo.png][3]][2]
 
-> Drag and drop so simple it hurts
+> Drag and drop so simple it hurts (!!! This is a fork of angularjs-dragula by bevacqua to fix a container-model out-of-sync issue.  Please refer to the official one. !!!)
 
-Official Angular wrapper for [`dragula`][4].
+A Fork of the Official Angular wrapper for [`dragula`][4].
 
 # Demo
 
